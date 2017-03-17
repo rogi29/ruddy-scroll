@@ -1,0 +1,19 @@
+{
+  "name": "ruddy-scroll",
+  "version": "1.0.0",
+  "description": "RuddyJS scroll extension",
+  "main": "scroll.js",
+  "scripts": {
+    "minify": "uglifyjs ./scroll.js -o ./scroll.min.js"
+  },
+  "keywords": [
+    "npm",
+    "scroll",
+    "compatibility",
+    "polyfill"
+  ],
+  "authors": [
+    "Gil Nimer <gil@ruddy.nl>"
+  ],
+  "license": "MIT"
+}

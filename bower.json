@@ -1,0 +1,7 @@
+{
+  "name": "ruddy-scroll",
+  "main": [
+    "scroll.min.js"
+  ],
+  "ignore": []
+}
